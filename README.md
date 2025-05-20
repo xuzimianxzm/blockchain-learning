@@ -42,7 +42,7 @@ Blockchain learning,Mainly web3 related.
 
 #### Web3 钱包
 
-#### Web3 钱包的类型
+##### Web3 钱包的类型
 
 **按存储方式分类:** 从私钥的存储方式来看，Web3 钱包主要分为热钱包和冷钱包
 > - 热钱包（Hot Wallet）：始终连接互联网，使用起来非常方便，适合日常频繁交易，比如连接 DeFi、Mint NFT 等常见操作。MetaMask、Trust
@@ -59,6 +59,28 @@ Blockchain learning,Mainly web3 related.
     Trezor。它们在签名时才与设备连接，其余时间完全离线，极大地提升了资产安全性。对于资产较多的用户而言，是最值得的选择。
 > - Web 钱包：Web 钱包是指通过浏览器访问的钱包界面，无需安装插件或
     App。虽然看似方便，但这类钱包往往依赖中心化后端，安全性无法保障，极易遭遇钓鱼或服务器劫持，不建议长期使用，更不适合存放重要资产。
+
+##### 常用 Web3 钱包推荐
+
+**MetaMask（小狐狸）:**
+> MetaMask 是目前最受欢迎的 Web3 钱包之一，提供浏览器插件和移动 App 两种形式，支持以太坊及大多数兼容 EVM 的链（如
+> Polygon、BSC、Arbitrum 等）。界面直观、功能成熟，几乎所有主流 DApp 都支持连接，是许多用户进入 Web3 世界的第一站。
+
+**Trust Wallet:**
+> 由币安投资的 Trust Wallet 以多链支持（70+ 公链）和移动端友好性著称，集成一键质押、法币入金（信用卡购币）和 NFT 管理功能。作为
+> Binance 生态入口，它与交易所无缝衔接，适合需要频繁交易和参与 BSC 生态的用户。
+
+**Coinbase Wallet:**
+> Coinbase Wallet 是由全球领先的加密交易平台 Coinbase 推出的钱包，支持以太坊、EVM 链以及 NFT 资产。它和 Coinbase
+> 交易所账户分离，用户拥有私钥控制权。支持手机号登录、自动备份等功能。
+
+**OKX Wallet:**
+> OKX Wallet 是 OKX 交易所推出的 Web3 钱包，支持 EVM、比特币、Solana、Aptos、Sui 等多个生态，几乎可以一站式管理所有主流链资产。提供浏览器插件、移动
+> App 和网页版三种形式，中文界面友好且优化了 Gas 兑换服务，适合多链资产管理和进阶用户。
+
+**imToken:**
+> 一款深受中文用户喜爱的移动端钱包，安全性强、界面简洁，其本地化服务（中文教程、社区支持）突出。内置 DApp 浏览器和代币兑换功能，集成
+> DeFi 协议和 NFT 市场，适合新手入门。
 
 ## Experience and Solutions
 
