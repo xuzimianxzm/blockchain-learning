@@ -9,6 +9,7 @@ Blockchain learning,Mainly web3 related.
 2. **DeSci:** 全称Decentralized Science（去中心化科学），是一项旨在利用区块链技术改造科学研究领域的运动。根据以太坊基金会的描述：
    DeSci 是通过 Web3 技术构建科学研究领域的公平公共基础设施，用于资助、创建、审查、确认、存储和传播科学知识。
 3. **DeFi:** 是去中心化金融（Decentralized Finance）的简称，也被称为 “开放式金融”，是以比特币和以太币为代表的加密货币、区块链和智能合约结合的产物.
+4. **DEX:** 去中心化交易所,如 Uniswap、SushiSwap 等，用户可直接进行加密货币交易，无需中介，且能保留对自己资产的完全控制权，还可通过提供流动性赚取交易费用。
 
 ## Experience and Solutions
 
