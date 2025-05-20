@@ -123,3 +123,6 @@ DApp，建议从 Ethers.js 起步，配合 wagmi 等库提升开发效率。
 ## Ref Links
 
 - [浙江大学区块链协会入门Roadmap](https://zjubca.github.io/roadmap/)
+- [以太坊官方文档](https://ethereum.org/zh/learn/)
+- [Solidity 中文文档](https://learnblockchain.cn/docs/solidity/)
+- [Vitalik 博客](https://vitalik.eth.limo/)
