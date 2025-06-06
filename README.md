@@ -129,3 +129,5 @@ DApp，建议从 Ethers.js 起步，配合 wagmi 等库提升开发效率。
 - [web3Caff 资讯](https://web3caff.com/)
 - [比特币生态资源导航](https://btcnav.org/)
 - [登链社区](https://learnblockchain.cn/)
+- [通过编码来学习智能合约](https://ethereum.org/zh/developers/learning-tools/)
+- [去中心化应用](https://ethereum.org/zh/dapps/?category=gaming#what-are-dapps)
