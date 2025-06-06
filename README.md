@@ -151,6 +151,9 @@ Blockchain learning,Mainly web3 related.
 **全球公链：** 以太坊仍为生态最丰富的基础层，Solana、Avalanche因高性能成为新兴DApp首选。
 **中国联盟链：** 政策驱动下，长安链在政务和实体经济场景占据绝对主导，其跨链与硬件优化技术代表国产区块链最高水平
 
+**More Detail: **
+1. [SamrtContracts文档](./SamrtContracts/README.md)
+
 ## Experience and Solutions
 
 在 Web3 前端开发中，连接钱包、调用合约是最常见的操作。而选择合适的工具库尤为重要。Web3.js 和 Ethers.js 是目前最常见的两种方案。
