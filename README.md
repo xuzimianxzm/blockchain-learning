@@ -37,6 +37,9 @@ Blockchain learning,Mainly web3 related.
 10. **Web3 钱包:** 进入 Web3 的第一步，就是拥有一个属于你自己的钱包。Web3 钱包，其实就是你在区块链上的
     “账户”，它可以用来接收和发送数字资产（比如 ETH、NFT），也可以登录各种去中心化应用（DApp）。和我们平时登录淘宝、微信那种
     “中心化账户” 不同，Web3 钱包里的资产完全由你自己掌管，没有任何公司或平台能替你保管或冻结，用户需自行承担私钥泄露或丢失的风险。
+11. **UTXO:** 比特币中的“状态”,是指所有已铸造但尚未使用的货币（技术上称为“未使用的交易输出”或 UTXO）的集合，每个 UTXO
+    都有面额和所有者（由一个 20 字节的地址定义，本质上是一个加密公钥 [fn1]（注释编号））。 一个交易包括一个或多个输入以及一个或多个输出，每个输入都包含对现有
+    UTXO 的引用以及所有者地址相关的私钥创建的加密签名；每个输出都包含一个要添加到状态中的新 UTXO。
 
 ### Important concepts
 
@@ -152,6 +155,7 @@ Blockchain learning,Mainly web3 related.
 **中国联盟链：** 政策驱动下，长安链在政务和实体经济场景占据绝对主导，其跨链与硬件优化技术代表国产区块链最高水平
 
 **More Detail: **
+
 1. [SamrtContracts文档](./SamrtContracts/README.md)
 
 ## Experience and Solutions
@@ -194,7 +198,6 @@ DApp，建议从 Ethers.js 起步，配合 wagmi 等库提升开发效率。
 ## my questions
 
 ### 比特币的原理?
-
 
 ## Ref Links
 
